@@ -1,0 +1,1 @@
+Practice structuring a layout using CSS Grid's 'grid-template-areas'
